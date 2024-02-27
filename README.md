@@ -1,5 +1,5 @@
 # kemaslazuardi.github.io
-- title: General Information
+#- title: General Information
   type: map
   contents:
     - name: Full Name
