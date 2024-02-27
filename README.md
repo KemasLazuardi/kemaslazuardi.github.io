@@ -1,5 +1,4 @@
 # kemaslazuardi.github.io
-
 - title: General Information
   type: map
   contents:
@@ -97,3 +96,4 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
